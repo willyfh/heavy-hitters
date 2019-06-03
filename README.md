@@ -1,6 +1,6 @@
 # Heavy Hitters
 
- implementation of streaming algorithms (Misra-Gries & Lossy Counting) for processing data streams to get frequent items. 
+ implementation of streaming algorithms (Misra-Gries & Lossy Counting) for getting frequent items from data streams.
 
  
  
